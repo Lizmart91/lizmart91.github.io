@@ -1,0 +1,63 @@
+body{
+  background-color: pink;
+   }
+h1 {
+  color:gray; 
+  font-size: 24px;
+  font-family: lucida bright, tohoma;
+   }
+h5{
+  color:gray;
+  font-size: 12px;
+  font-family: lucida bright, tohoma;
+  margin-left: 5px;
+  }
+h3{
+  color:gray;
+  font-size: 18px;
+  font-family: lucida bright, tohoma;
+  }
+h4{
+  color:gray;
+  font-size: 12px;
+  font-family: lucida bright, tohoma;
+  }
+.header{
+  background-color: pink;
+  
+  }
+.footer{
+  color:gray;
+  font-size: 12px;
+  font-family: lucida bright, tohoma;
+  }
+img{
+  width: 45%;
+  margin-left: 130px;
+  }
+.box{
+  Margin: 50px;
+  height: 100px;
+  padding: 20px;
+  border: 5px solid gray;  
+  background-color: white;
+  color:gray;
+  font-size: 24px;
+  font-family: lucida bright, tohoma;
+  
+}
+.divs{
+  display:flex; 
+  align-items:center;  
+  justify-content:center;  
+  }
+h3{
+  display:flex; 
+  align-items:center;  
+  justify-content:center;
+  }
+p{
+  display:flex; 
+  align-items:center;  
+  justify-content:center;
+ }
