@@ -43,7 +43,7 @@ h4{
   }
 img{
   width: 30%;
-  margin-left: 265px;
+  margin:auto;
   display:flex; 
   align-items:center;  
   justify-content:center;
