@@ -44,7 +44,7 @@ h4{
 img{
   width: 30%;
   margin:auto;
-  display:flex; 
+  display:block; 
   align-items:center;  
   justify-content:center;
   
