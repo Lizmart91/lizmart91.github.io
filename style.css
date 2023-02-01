@@ -33,6 +33,7 @@ h4{
   }
 .header{
   background-color: pink;
+  
    
   }
 .footer{
@@ -41,11 +42,9 @@ h4{
   font-family: lucida bright, tohoma;
   }
 img{
-  width: 30%;
-  margin-left: 200px;
-  display:flex; 
-  align-items:center;  
-  justify-content:center;
+  width: 35%;
+  margin-left: 250px;
+  
   }
 .box{
   Margin: 50px;
