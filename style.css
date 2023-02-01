@@ -42,8 +42,11 @@ h4{
   font-family: lucida bright, tohoma;
   }
 img{
-  width: 35%;
-  margin-left: 250px;
+  width: 30%;
+  margin-left: 265px;
+  display:flex; 
+  align-items:center;  
+  justify-content:center;
   
   }
 .box{
